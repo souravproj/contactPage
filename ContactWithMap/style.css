@@ -12,6 +12,7 @@ body{
     position: relative;
     width: 100%;
     padding: 40px 100px;
+    margin-top: 5%;
 }
 .contactUs .title{
     display: flex;
