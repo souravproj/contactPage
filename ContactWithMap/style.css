@@ -203,4 +203,7 @@ body{
         min-height: 300px;
         padding: 0;
     }
+    .contactUs {
+        margin-top: 20%;
+    }
 }
